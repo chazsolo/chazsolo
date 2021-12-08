@@ -1,5 +1,7 @@
-### 一人で神に栄光を
+### よろしくお願いします。
 
-I write JavaScript everywhere: front-end, back-end, and sometimes in the middle. I love over-architecting things in Meteor/Blaze. IntelliJ is my weapon of choice. Proficient troublemaker in React, Vue, Node, Webpack, Docker, Git, and CI/CD. Code responsibly and don't forget to refactor (you aren't prematurely optimizing, are you?).
+一人で神様に栄光！ 自分に日本語を教えている。　
+
+I write JavaScript everywhere: front-end, back-end, and sometimes in the middle. IntelliJ is my weapon of choice. Proficient troublemaker with HTML/CSS, React, Vue, Node, Webpack, Docker, and Git.
 
 ⊛ DrinkIzze ⊛
